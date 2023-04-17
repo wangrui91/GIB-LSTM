@@ -8,6 +8,7 @@ We adopted the Graph Information Bottle (GIB) to develop a Contextual Feature Tr
 ![](https://github.com/wangrui91/GIB-LSTM/blob/main/images/GIB-LSTM.png)
 
 ##  Experiments
+#### 主观实验结果
 Comparison with the state-of-the-art unsupervised video summarization methods on the SUMME and TVSUM datasets under the canonical setting  (F-score%)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
@@ -788,3 +789,8 @@ Comparison with the state-of-the-art supervised video summarization methods on t
   </td>
  </tr>
 </table>
+
+
+#### 客观实验结果
+
+![](https://github.com/wangrui91/GIB-LSTM/blob/main/images/Visualization.png)
