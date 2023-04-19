@@ -556,23 +556,23 @@ Comparison with other supervised video summarization methods under the canonical
 ![](https://github.com/wangrui91/GIB-LSTM/blob/main/images/Visualization.png)
 
 ## references
-[1]E. Elhamifar, G. Sapiro, and R. Vidal, “See all by looking at a few: Sparse modeling for fifinding representative objects,” in CVPR, 2012, pp. 1600–1607.
-[2]De Avila, S. E. F., Lopes, A. P. B., da Luz Jr, A., & de Albuquerque Araújo, A. (2011). VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method. Pattern recognition letters, 32(1), 56-68.
-[3]Khosla, A., Hamid, R., Lin, C. J., & Sundaresan, N. (2013). Large-scale video summarization using web-image priors. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2698-2705).
-[4]Zhao, B., & Xing, E. P. (2014). Quasi real-time summarization for consumer videos. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2513-2520).
-[5]Song, Y., Vallmitjana, J., Stent, A., & Jaimes, A. (2015). Tvsum: Summarizing web videos using titles. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 5179-5187).
-[6]Mahasseni, B., Lam, M., & Todorovic, S. (2017). Unsupervised video summarization with adversarial lstm networks. In Proceedings of the IEEE conference on Computer Vision and Pattern Recognition (pp. 202-211).
-[7]Zhou, K., Qiao, Y., & Xiang, T. (2018, April). Deep reinforcement learning for unsupervised video summarization with diversity-representativeness reward. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 32, No. 1).
-[8]Yuan, L., Tay, F. E. H., Li, P., & Feng, J. (2019). Unsupervised video summarization with cycle-consistent adversarial LSTM networks. IEEE Transactions on Multimedia, 22(10), 2711-2722.
-[9]Jung, Y., Cho, D., Kim, D., Woo, S., & Kweon, I. S. (2019, July). Discriminative feature learning for unsupervised video summarization. In Proceedings of the AAAI Conference on artificial intelligence (Vol. 33, No. 01, pp. 8537-8544).
-[10]Zhong, R., Wang, R., Zou, Y., Hong, Z., & Hu, M. (2021). Graph attention networks adjusted bi-LSTM for video summarization. IEEE Signal Processing Letters, 28, 663-667.
-[11]Zhong, S. H., Lin, J., Lu, J., Fares, A., & Ren, T. (2022). Deep semantic and attentive network for unsupervised video summarization. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 18(2), 1-21.
-[12]Gygli, M., Grabner, H., Riemenschneider, H., & Van Gool, L. (2014). Creating summaries from user videos. In Computer Vision–ECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part VII 13 (pp. 505-520). Springer International Publishing.
-[13]Gygli, M., Grabner, H., & Van Gool, L. (2015). Video summarization by learning submodular mixtures of objectives. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3090-3098).
-[14]Zhang, K., Chao, W. L., Sha, F., & Grauman, K. (2016). Summary transfer: Exemplar-based subset selection for video summarization. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1059-1067).
-[15]Zhang, K., Chao, W. L., Sha, F., & Grauman, K. (2016). Video summarization with long short-term memory. In Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11–14, 2016, Proceedings, Part VII 14 (pp. 766-782). Springer International Publishing.
-[16]Yuan, Y., Li, H., & Wang, Q. (2019). Spatiotemporal modeling for video summarization using convolutional recurrent neural network. IEEE Access, 7, 64676-64685.
-[17]Sanabria, M., Precioso, F., & Menguy, T. (2021, January). Hierarchical multimodal attention for deep video summarization. In 2020 25th International Conference on Pattern Recognition (ICPR) (pp. 7977-7984). IEEE.
-[18]Zhu, W., Lu, J., Li, J., & Zhou, J. (2020). Dsnet: A flexible detect-to-summarize network for video summarization. IEEE Transactions on Image Processing, 30, 948-962.
-[19]Zhu, W., Lu, J., Han, Y., & Zhou, J. (2022). Learning multiscale hierarchical attention for video summarization. Pattern Recognition, 122, 108312.
-[20]Zhu, W., Han, Y., Lu, J., & Zhou, J. (2022). Relational reasoning over spatial-temporal graphs for video summarization. IEEE Transactions on Image Processing, 31, 3017-3031.
+[1] E. Elhamifar, G. Sapiro, and R. Vidal, “See all by looking at a few: Sparse modeling for fifinding representative objects,” in CVPR, 2012, pp. 1600–1607.<br>
+[2] De Avila, S. E. F., Lopes, A. P. B., da Luz Jr, A., & de Albuquerque Araújo, A. (2011). VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method. Pattern recognition letters, 32(1), 56-68.<br>
+[3] Khosla, A., Hamid, R., Lin, C. J., & Sundaresan, N. (2013). Large-scale video summarization using web-image priors. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2698-2705).<br>
+[4] Zhao, B., & Xing, E. P. (2014). Quasi real-time summarization for consumer videos. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2513-2520).<br>
+[5] Song, Y., Vallmitjana, J., Stent, A., & Jaimes, A. (2015). Tvsum: Summarizing web videos using titles. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 5179-5187).<br>
+[6] Mahasseni, B., Lam, M., & Todorovic, S. (2017). Unsupervised video summarization with adversarial lstm networks. In Proceedings of the IEEE conference on Computer Vision and Pattern Recognition (pp. 202-211).<br>
+[7] Zhou, K., Qiao, Y., & Xiang, T. (2018, April). Deep reinforcement learning for unsupervised video summarization with diversity-representativeness reward. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 32, No. 1).<br>
+[8] Yuan, L., Tay, F. E. H., Li, P., & Feng, J. (2019). Unsupervised video summarization with cycle-consistent adversarial LSTM networks. IEEE Transactions on Multimedia, 22(10), 2711-2722.<br>
+[9] Jung, Y., Cho, D., Kim, D., Woo, S., & Kweon, I. S. (2019, July). Discriminative feature learning for unsupervised video summarization. In Proceedings of the AAAI Conference on artificial intelligence (Vol. 33, No. 01, pp. 8537-8544).<br>
+[10] Zhong, R., Wang, R., Zou, Y., Hong, Z., & Hu, M. (2021). Graph attention networks adjusted bi-LSTM for video summarization. IEEE Signal Processing Letters, 28, 663-667.<br>
+[11] Zhong, S. H., Lin, J., Lu, J., Fares, A., & Ren, T. (2022). Deep semantic and attentive network for unsupervised video summarization. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 18(2), 1-21.<br>
+[12] Gygli, M., Grabner, H., Riemenschneider, H., & Van Gool, L. (2014). Creating summaries from user videos. In Computer Vision–ECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part VII 13 (pp. 505-520). Springer International Publishing.<br>
+[13] Gygli, M., Grabner, H., & Van Gool, L. (2015). Video summarization by learning submodular mixtures of objectives. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3090-3098).<br>
+[14] Zhang, K., Chao, W. L., Sha, F., & Grauman, K. (2016). Summary transfer: Exemplar-based subset selection for video summarization. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1059-1067).<br>
+[15] Zhang, K., Chao, W. L., Sha, F., & Grauman, K. (2016). Video summarization with long short-term memory. In Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11–14, 2016, Proceedings, Part VII 14 (pp. 766-782). Springer International Publishing.<br>
+[16] Yuan, Y., Li, H., & Wang, Q. (2019). Spatiotemporal modeling for video summarization using convolutional recurrent neural network. IEEE Access, 7, 64676-64685.<br>
+[17] Sanabria, M., Precioso, F., & Menguy, T. (2021, January). Hierarchical multimodal attention for deep video summarization. In 2020 25th International Conference on Pattern Recognition (ICPR) (pp. 7977-7984). IEEE.<br>
+[18] Zhu, W., Lu, J., Li, J., & Zhou, J. (2020). Dsnet: A flexible detect-to-summarize network for video summarization. IEEE Transactions on Image Processing, 30, 948-962.<br>
+[19] Zhu, W., Lu, J., Han, Y., & Zhou, J. (2022). Learning multiscale hierarchical attention for video summarization. Pattern Recognition, 122, 108312.<br>
+[20] Zhu, W., Han, Y., Lu, J., & Zhou, J. (2022). Relational reasoning over spatial-temporal graphs for video summarization. IEEE Transactions on Image Processing, 31, 3017-3031.<br>
