@@ -89,7 +89,7 @@ Comparison with other unsupervised video summarization methods under the canonic
  <tr style='mso-yfti-irow:4'>
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-  lang=EN-US style='font-family:"Times New Roman",serif'>Dictionary selection [4]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'>Dictionary selection [1]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -103,7 +103,7 @@ Comparison with other unsupervised video summarization methods under the canonic
  <tr style='mso-yfti-irow:5'>
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-  lang=EN-US style='font-family:"Times New Roman",serif'>Online space coding [5]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'>Online space coding [4]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -117,7 +117,7 @@ Comparison with other unsupervised video summarization methods under the canonic
  <tr style='mso-yfti-irow:6'>
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-  lang=EN-US style='font-family:"Times New Roman",serif'>Co-archetypal [6]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'>Co-archetypal [5]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -132,7 +132,7 @@ Comparison with other unsupervised video summarization methods under the canonic
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
   class=SpellE><span lang=EN-US style='font-family:"Times New Roman",serif'>GANdpp</span></span><span
-  lang=EN-US style='font-family:"Times New Roman",serif'> [7]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'> [6]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -146,7 +146,7 @@ Comparison with other unsupervised video summarization methods under the canonic
  <tr style='mso-yfti-irow:8'>
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-  lang=EN-US style='font-family:"Times New Roman",serif'>DR-DSN [8]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'>DR-DSN [7]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -160,7 +160,7 @@ Comparison with other unsupervised video summarization methods under the canonic
  <tr style='mso-yfti-irow:9'>
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-  lang=EN-US style='font-family:"Times New Roman",serif'>Cycle-SUM [9]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'>Cycle-SUM [8]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -175,7 +175,7 @@ Comparison with other unsupervised video summarization methods under the canonic
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
   class=SpellE><span lang=EN-US style='font-family:"Times New Roman",serif'>CSNet</span></span><span
-  lang=EN-US style='font-family:"Times New Roman",serif'> [10]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'> [9]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -189,7 +189,7 @@ Comparison with other unsupervised video summarization methods under the canonic
  <tr style='mso-yfti-irow:11'>
   <td width=165 valign=top style='width:123.7pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-  lang=EN-US style='font-family:"Times New Roman",serif'>GAT-LSTM [11]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'>GAT-LSTM [10]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
@@ -204,7 +204,7 @@ Comparison with other unsupervised video summarization methods under the canonic
   <td width=165 valign=top style='width:123.7pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-  lang=EN-US style='font-family:"Times New Roman",serif'>DSAVS [12]<o:p></o:p></span></p>
+  lang=EN-US style='font-family:"Times New Roman",serif'>DSAVS [11]<o:p></o:p></span></p>
   </td>
   <td width=97 valign=top style='width:72.8pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
